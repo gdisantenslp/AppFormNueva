@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
+              "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Proyecto nuevo\\Prueba Repositorio\\Prueba Repositorio\\Form1.cs",
               "RelativeDocumentMoniker": "Prueba Repositorio\\Form1.cs",
-              "ToolTip": "C:\\Proyecto nuevo\\Prueba Repositorio\\Prueba Repositorio\\Form1.cs [Design]",
-              "RelativeToolTip": "Prueba Repositorio\\Form1.cs [Design]",
+              "ToolTip": "C:\\Proyecto nuevo\\Prueba Repositorio\\Prueba Repositorio\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Prueba Repositorio\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T21:52:07.528Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

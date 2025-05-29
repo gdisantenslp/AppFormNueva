@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyecto nuevo\\Prueba Repositorio\\Prueba Repositorio\\Prueba Repositorio.csproj": {}
+    "C:\\ExcelZecat\\AppFormNueva\\Prueba Repositorio\\Prueba Repositorio\\Prueba Repositorio.csproj": {}
   },
   "projects": {
-    "C:\\Proyecto nuevo\\Prueba Repositorio\\Prueba Repositorio\\Prueba Repositorio.csproj": {
+    "C:\\ExcelZecat\\AppFormNueva\\Prueba Repositorio\\Prueba Repositorio\\Prueba Repositorio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyecto nuevo\\Prueba Repositorio\\Prueba Repositorio\\Prueba Repositorio.csproj",
+        "projectUniqueName": "C:\\ExcelZecat\\AppFormNueva\\Prueba Repositorio\\Prueba Repositorio\\Prueba Repositorio.csproj",
         "projectName": "Prueba Repositorio",
-        "projectPath": "C:\\Proyecto nuevo\\Prueba Repositorio\\Prueba Repositorio\\Prueba Repositorio.csproj",
+        "projectPath": "C:\\ExcelZecat\\AppFormNueva\\Prueba Repositorio\\Prueba Repositorio\\Prueba Repositorio.csproj",
         "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyecto nuevo\\Prueba Repositorio\\Prueba Repositorio\\obj\\",
+        "outputPath": "C:\\ExcelZecat\\AppFormNueva\\Prueba Repositorio\\Prueba Repositorio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

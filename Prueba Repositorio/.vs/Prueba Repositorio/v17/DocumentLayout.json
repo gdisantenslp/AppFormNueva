@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Proyecto nuevo\\Prueba Repositorio\\",
+  "WorkspaceRootPath": "C:\\ExcelZecat\\AppFormNueva\\Prueba Repositorio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C7EBCBF-1099-4BFA-BEBA-F42104A10557}|Prueba Repositorio\\Prueba Repositorio.csproj|c:\\proyecto nuevo\\prueba repositorio\\prueba repositorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2C7EBCBF-1099-4BFA-BEBA-F42104A10557}|Prueba Repositorio\\Prueba Repositorio.csproj|c:\\excelzecat\\appformnueva\\prueba repositorio\\prueba repositorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7EBCBF-1099-4BFA-BEBA-F42104A10557}|Prueba Repositorio\\Prueba Repositorio.csproj|solutionrelative:prueba repositorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7EBCBF-1099-4BFA-BEBA-F42104A10557}|Prueba Repositorio\\Prueba Repositorio.csproj|c:\\excelzecat\\appformnueva\\prueba repositorio\\prueba repositorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2C7EBCBF-1099-4BFA-BEBA-F42104A10557}|Prueba Repositorio\\Prueba Repositorio.csproj|solutionrelative:prueba repositorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -19,10 +23,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Proyecto nuevo\\Prueba Repositorio\\Prueba Repositorio\\Form1.cs",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\ExcelZecat\\AppFormNueva\\Prueba Repositorio\\Prueba Repositorio\\Form1.cs",
               "RelativeDocumentMoniker": "Prueba Repositorio\\Form1.cs",
-              "ToolTip": "C:\\Proyecto nuevo\\Prueba Repositorio\\Prueba Repositorio\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\ExcelZecat\\AppFormNueva\\Prueba Repositorio\\Prueba Repositorio\\Form1.cs",
+              "RelativeToolTip": "Prueba Repositorio\\Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIA/wAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T22:04:51.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\ExcelZecat\\AppFormNueva\\Prueba Repositorio\\Prueba Repositorio\\Form1.cs",
+              "RelativeDocumentMoniker": "Prueba Repositorio\\Form1.cs",
+              "ToolTip": "C:\\ExcelZecat\\AppFormNueva\\Prueba Repositorio\\Prueba Repositorio\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Prueba Repositorio\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T21:52:07.528Z",
